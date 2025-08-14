@@ -16,7 +16,6 @@ public:
         cout<<real<<"+"<<imag<<"i"<<endl;
     }
 	
- 
     void sum(Complex c1, Complex c2)
     {
         real=c1.real+c2.real;
